@@ -1,0 +1,2 @@
+# minehut
+Minehut Stats
